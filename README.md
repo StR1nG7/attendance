@@ -2,6 +2,10 @@
 
 ### Демо главной страницы
 [http://attendance.stroinova.mk.ua/](http://attendance.stroinova.mk.ua/)
+<p>
+  <img src="src/assets/img/adminpage.png" width="400" alt="Admin page">
+  <img src="src/assets/img/classpage.png" width="400" alt="Class page">
+</p>
 
 ### Установка
 Скачайте проект и запустите команду
