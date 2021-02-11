@@ -16,7 +16,7 @@ const Header: React.FC<IHeaderProps> = ({isAuth, login, pathname, handleLogOutCl
 			<header className="header">
 				<h1 className="header__title">
 					<i className="header__icon material-icons">addchart</i>
-					{' '}Статистика відвідуваності учнів
+					{' '}Моніторинг відвідування учнями навчальних занять
 				</h1>
 				{
 					pathname === '/' && !isAuth &&
